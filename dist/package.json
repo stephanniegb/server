@@ -13,7 +13,7 @@
   "name": "server",
   "version": "1.0.0",
   "main": "dist/src/app.cjs",
-  "type": "module",
+  
   "scripts": {
     "build": "tsc"
   },
